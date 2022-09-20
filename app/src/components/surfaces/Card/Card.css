@@ -1,0 +1,14 @@
+.card-container {
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  border: 1px solid #e6e6e6;
+  -webkit-box-shadow: 5px 5px 6px -7px #da874a;
+  box-shadow: 5px 5px 6px -7px #da874a;
+  border-radius: 6px;
+  color: grey;
+  width: 400px;
+  height: 250px;
+  min-width: 150px;
+  padding: 8px 10px;
+}

@@ -1,0 +1,21 @@
+.footer-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: #da874a;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 30px;
+  gap: 15px;
+}
+
+.social-media_icon {
+  width: 20px;
+}
